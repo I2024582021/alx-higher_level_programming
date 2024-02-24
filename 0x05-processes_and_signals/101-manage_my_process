@@ -39,3 +39,7 @@ then
 else
     echo "Usage: manage_my_process {start|stop|restart}"
 fi
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca66016fa8a99bbb78e5105d10285c95951a4111

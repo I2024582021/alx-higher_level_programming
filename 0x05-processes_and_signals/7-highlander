@@ -9,3 +9,7 @@ do
   sleep 2
   trap 'echo "I am invincible!!!"' SIGTERM 
 done
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca66016fa8a99bbb78e5105d10285c95951a4111

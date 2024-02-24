@@ -22,3 +22,7 @@ do
   trap 'echo "I hate the kill command" && terminator' SIGTERM
   trap 'terminator' SIGQUIT
 done
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca66016fa8a99bbb78e5105d10285c95951a4111
